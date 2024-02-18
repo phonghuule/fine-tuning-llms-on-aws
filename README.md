@@ -1,4 +1,4 @@
-# FFine-tuning LLMs using Amazon SageMaker, AWS Trainium, and Optimum Neuron
+# Fine-tuning LLMs using Amazon SageMaker, AWS Trainium, and Optimum Neuron
 
 This lab is provided as part of **[AWS Innovate AI/ML and Data Edition](https://aws.amazon.com/events/aws-innovate/apj/aiml-data/)**.
 

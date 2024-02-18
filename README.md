@@ -1,4 +1,4 @@
-# Gaining operational insights with AIOps using Amazon DevOps Guru
+# FFine-tuning LLMs using Amazon SageMaker, AWS Trainium, and Optimum Neuron
 
 This lab is provided as part of **[AWS Innovate AI/ML and Data Edition](https://aws.amazon.com/events/aws-innovate/apj/aiml-data/)**.
 
@@ -13,7 +13,7 @@ In this lab, you will learn how to use [Amazon SageMaker](https://aws.amazon.com
 This is a labified version of this [AWS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0cd5851b-5253-4a65-b351-70d0d80a7fb5/en-US)
 
 ## Setup
-[Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio.html)] is a web-based, integrated development environment (IDE) for machine learning that lets you build, train, debug, deploy, and monitor your machine learning models. Studio provides all the tools you need to take your models from experimentation to production while boosting your productivity. In addition, since all these steps of the ML workflow are tracked within the environment, you can quickly move back and forth between steps, and also clone, tweak and replay them. This gives you the ability to make changes quickly, observe outcomes, collaborate effectively and iterate faster, reducing the time to market for your high quality ML solutions.
+[Amazon SageMaker Studio](https://docs.aws.amazon.com/sagemaker/latest/dg/studio.html) is a web-based, integrated development environment (IDE) for machine learning that lets you build, train, debug, deploy, and monitor your machine learning models. Studio provides all the tools you need to take your models from experimentation to production while boosting your productivity. In addition, since all these steps of the ML workflow are tracked within the environment, you can quickly move back and forth between steps, and also clone, tweak and replay them. This gives you the ability to make changes quickly, observe outcomes, collaborate effectively and iterate faster, reducing the time to market for your high quality ML solutions.
 
 It is recommended to run this workshop from the **us-west-2** region. If you already have SageMaker Studio configured in **us-west-2**, please skip ahead to Step 10 to download the notebooks and related files.
 

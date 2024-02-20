@@ -122,9 +122,18 @@ Now that you have completed the session, you should have an understanding of:
 
 5. At the top of the AWS Console, search for S3 to open the S3 console. In the list of S3 buckets, look for buckets that start with **sagemaker-**. View the contents of these buckets and delete any artifacts that you do not want to keep.
 
+## Conclusion
+Throughout this lab, you have learn how to use [Amazon SageMaker](https://aws.amazon.com/sagemaker/) to fine-tune a pretrained Hugging Face LLM using [AWS Trainium](https://aws.amazon.com/machine-learning/trainium/) accelerators, and then leverage the fine-tuned model for inference on [AWS Inferentia](https://aws.amazon.com/machine-learning/inferentia/)
+
+As described in the [Machine Learning Lens](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html) of the [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected),optimizing training and inference instance types is one of the best practices in **Performance Efficiency** pillar which focuses on the efficient use of computing resources to meet requirements and the maintenance of that efficiency as demand changes and technologies evolve
+
+Visit the [Machine Learning Lens](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html) and below related Best Practices for more information:
+- [MLPER-05: Optimize training and inference instance types](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/mlper-05.html)
+- [MLCOST-09: Select optimal computing instance size](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/mlcost-09.html)
+
 ## Survey
-Let us know what you thought of this session and how we can improve the presentation experience for you in the future by completing [this event session poll](https://amazonmr.au1.qualtrics.com/jfe/form/SV_5BWPHDlxVcsRbo2?Session=HOL02). 
-Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits <sup> 1, 2 & 3 </sup>. AWS credits will be sent via email by November 30, 2023.
+Let us know what you thought of this session and how we can improve the presentation experience for you in the future by completing [this event session poll](https://amazonmr.au1.qualtrics.com/jfe/form/SV_bmgERAD8tX0Eb6m?Session=HAN4). 
+Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits <sup> 1, 2 & 3 </sup>. AWS credits will be sent via email by **March 29, 2024**.
 Note: Only registrants of AWS Innovate Online Conference who complete the surveys will receive a gift code for USD25 in AWS credits via email.
 
 <sup>1</sup>AWS Promotional Credits Terms and conditions apply: https://aws.amazon.com/awscredits/
